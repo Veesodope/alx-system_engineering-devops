@@ -1,1 +1,1 @@
-Created Hello World Script
+hello world script
